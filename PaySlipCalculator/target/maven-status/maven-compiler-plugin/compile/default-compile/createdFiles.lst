@@ -1,0 +1,8 @@
+com\payslip\PaySlipCalculator.class
+com\payslip\PaySlipApplication.class
+com\payslip\Tax.class
+com\payslip\Employee.class
+com\payslip\PaySlipDetails.class
+com\payslip\IncomeGeneratorException.class
+com\payslip\TaxCalculator.class
+com\payslip\TaxableIncome.class
